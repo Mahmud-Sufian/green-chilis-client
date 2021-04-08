@@ -1,0 +1,17 @@
+.main-container{
+  padding: 100px;
+  margin: auto;
+  width: 65%;
+}
+.main-container img{
+  height: 150px;
+}
+
+@media screen and (max-width: 320px) {
+  .main-container{
+     
+    /* margin-left: 0px; */
+    padding-left: 20px;
+    
+  }
+}

@@ -1,0 +1,39 @@
+[
+    {
+        "name":"Special beef",
+        "img":"https://i.ibb.co/LdTPD6q/lunch6.pnghttps://i.ibb.co/WGjGjHd/dinner1.png",
+        "description":"We know what you’re thinking…Subway does breakfast? They sure do! It’s super limited, and not every location does it, but they do offer a nice alternative to those who aren’t feelin’ the typical sausage/bacon, egg, and cheese: a steak, egg, and cheese flat bread.",
+        "price":13
+    },
+    {
+        "name":"mixed salad",
+        "img":"https://i.ibb.co/BZpgNQZ/dinner2.png",
+        "description":"We know what you’re thinking…Subway does breakfast? They sure do! It’s super limited, and not every location does it, but they do offer a nice alternative to those who aren’t feelin’ the typical sausage/bacon, egg, and cheese: a steak, egg, and cheese flat bread.",
+        "price":16
+    },
+    {
+        "name":"indian Chicken",
+        "img":"https://i.ibb.co/FVLvsWf/dinner3.png",
+        "description":"We know what you’re thinking…Subway does breakfast? They sure do! It’s super limited, and not every location does it, but they do offer a nice alternative to those who aren’t feelin’ the typical sausage/bacon, egg, and cheese: a steak, egg, and cheese flat bread.",
+        "price":19
+    },
+    {
+        "name":"Korean Chicken",
+        "img":"https://i.ibb.co/R7Lfxzk/dinner4.png",
+        "description":"We know what you’re thinking…Subway does breakfast? They sure do! It’s super limited, and not every location does it, but they do offer a nice alternative to those who aren’t feelin’ the typical sausage/bacon, egg, and cheese: a steak, egg, and cheese flat bread.",
+        "price":11
+    },
+    {
+        "name":"Mix Chicken",
+        "img":"https://i.ibb.co/LpP6Z9g/dinner5.png",
+        "description":"We know what you’re thinking…Subway does breakfast? They sure do! It’s super limited, and not every location does it, but they do offer a nice alternative to those who aren’t feelin’ the typical sausage/bacon, egg, and cheese: a steak, egg, and cheese flat bread.",
+        "price":14
+    },
+    {
+        "name":"Chicken Salad",
+        "img":"https://i.ibb.co/0fNLKFv/dinner6.png",
+        "description":"We know what you’re thinking…Subway does breakfast? They sure do! It’s super limited, and not every location does it, but they do offer a nice alternative to those who aren’t feelin’ the typical sausage/bacon, egg, and cheese: a steak, egg, and cheese flat bread.",
+        "price":12
+    }
+   
+]
