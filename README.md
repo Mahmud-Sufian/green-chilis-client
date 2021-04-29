@@ -4,22 +4,17 @@ Live: https://green-chilis-client.web.app/
 <br>
 
 ### Feature
--Login Authentication
-<br/>
--Show Breakfast,Lunch and Dinner of Food
-<br/>
--Every meal Details
-<br/>
--Show Order Item
+-A full stack Green Chili Restaurant application for social people,where they can get Food according to their choice. 
 <br>
+-A Green Chili Restaurant admin can organise a new Add Food Item,every Food Item control in admin ,admin can remove any Food at any time.
 
 ### Technology
 -React
 <br/>
--React Router
+-React-router
 <br/>
--Material ui
+-Node.js 
 <br/>
--Bootstrap
+-MongoDB Firebase Authentication
 <br/>
--Firebase Authentication
+-Heroku
