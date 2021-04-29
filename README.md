@@ -1,6 +1,6 @@
-Site Name: Green Chili Restaurant
+### Site Name: Green Chili Restaurant
 <br>
-Live: https://green-chilis-client.web.app/
+### Live: https://green-chilis-client.web.app/
 <br>
 
 ### Feature
