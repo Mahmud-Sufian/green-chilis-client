@@ -1,9 +1,9 @@
 ### Site Name: Green Chili Restaurant
 <br>
 
-### Live: ![https://i.ibb.co/JHB67hH/green-1.png]
+### Live: ![Green Chili Restaurant](https://i.ibb.co/JHB67hH/green-1.png)
 
-/--(https://green-chilis-client.web.app/)--/
+ (https://green-chilis-client.web.app/) 
 <br>
 
 ### Feature
