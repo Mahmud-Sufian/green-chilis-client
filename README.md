@@ -6,17 +6,12 @@
 <br>
 
 ### Feature
--A full stack Green Chili Restaurant application for social people,where they can get Food according to their choice. 
-<br>
--A Green Chili Restaurant admin can organise a new Add Food Item,every Food Item control in admin ,admin can remove any Food at any time.
+- A full stack Green Chili Restaurant application for social people,where they can get Food according to their choice.   
+- A Green Chili Restaurant admin can organise a new Add Food Item,every Food Item control in admin ,admin can remove any Food at any time.
 
 ### Technology
--React
-<br/>
--React-router
-<br/>
--Node.js 
-<br/>
--MongoDB Firebase Authentication
-<br/>
--Heroku
+- React 
+- React-router 
+- Node.js  
+- MongoDB Firebase Authentication  
+- Heroku
